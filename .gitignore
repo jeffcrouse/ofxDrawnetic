@@ -2,8 +2,37 @@
 *.swp
 *.lock
 profile
+
+
+# .pbxuser: http://lists.apple.com/archives/xcode-users/2004/Jan/msg00193.html
+
 *.pbxuser
+
+# .mode1v3: http://lists.apple.com/archives/xcode-users/2007/Oct/msg00465.html
+
+*.mode1v3
+
+# .mode2v3: http://lists.apple.com/archives/xcode-users/2007/Oct/msg00465.html
+
+*.mode2v3
+
+# .perspectivev3: http://stackoverflow.com/questions/5223297/xcode-projects-what-is-a-perspectivev3-file
+
+*.perspectivev3
+
+
+
+####
+# Xcode 4 - semi-personal settings
+#
+#
+# OPTION 1: ---------------------------------
+#     throw away ALL personal settings (including custom schemes!
+#     - unless they are "shared")
+#
+# NB: this is exclusive with OPTION 2 below
 xcuserdata
+
 
 # Compiled Object files
 *.slo
@@ -18,3 +47,6 @@ xcuserdata
 *.lai
 *.la
 *.a
+
+/*/bin/
+

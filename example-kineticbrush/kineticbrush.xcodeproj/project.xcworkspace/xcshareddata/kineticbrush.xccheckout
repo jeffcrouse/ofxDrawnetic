@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF9621C8-7BA4-47CE-8BDF-C9CE3DF6B6B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>kineticbrush</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B629911-45AD-4B98-8627-BC5877574D11</key>
+		<string>https://github.com/jefftimesten/ofxDrawnetic.git</string>
+		<key>3C155BF0-8C41-423F-A9EE-1BD090986100</key>
+		<string>https://github.com/rezaali/ofxGenerative.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>kineticbrush/kineticbrush.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B629911-45AD-4B98-8627-BC5877574D11</key>
+		<string>../../..</string>
+		<key>3C155BF0-8C41-423F-A9EE-1BD090986100</key>
+		<string>../../../../ofxGenerative</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jefftimesten/ofxDrawnetic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B629911-45AD-4B98-8627-BC5877574D11</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B629911-45AD-4B98-8627-BC5877574D11</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxDrawnetic</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3C155BF0-8C41-423F-A9EE-1BD090986100</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGenerative</string>
+		</dict>
+	</array>
+</dict>
+</plist>
